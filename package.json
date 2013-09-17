@@ -21,7 +21,7 @@
   },
   "keywords": [],
   "engines": {
-    "node": ">= 10.6.0"
+    "node": ">= 0.10.6"
   },
   "author": "Frank Schwieterman <fschwiet@gmail.com>",
   "license": "MIT"
