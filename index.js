@@ -1,5 +1,5 @@
 module.exports = {
-    assertPage: require("./lib/assertPage.js"),
+    assertPage: require("./lib/assert-page.js"),
     database: require("./lib/database.js"),
     gitUtil: require("./lib/git-util.js"),
     nodeunit: require("./lib/nodeunit-builder.js"),
@@ -7,7 +7,7 @@ module.exports = {
     shouldFail: require("./lib/should-fail.js"),
     spawnProcess: require("./lib/spawn-process.js"),
     usingPhantomPage: require("./lib/using-phantom-page.js"),
-    waitUntil: require("./lib/waitUntil.js")
+    waitUntil: require("./lib/wait-until.js")
 };
 
 
