@@ -14,7 +14,9 @@
     "grunt-contrib-nodeunit": "~0.2.0",
     "grunt-contrib-jshint": "~0.6.4",
     "assert": "~0.4.9",
-    "express": "~3.4.0"
+    "express": "~3.4.0",
+    "temporary": "0.0.6",
+    "expect.js": "~0.2.0"
   },
   "repository": {
     "type": "git",
